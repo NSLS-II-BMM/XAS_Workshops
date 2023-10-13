@@ -120,6 +120,11 @@ Thursday, October 12
 
 Experimental session: XAS data collection at QAS, BMM, and ISS
 
+Data from BMM
+~~~~~~~~~~~~~
+
+.. todo:: gather up standards + FeS2 + edited dossiers in a zip file
+
 
 
 Links and Resources
