@@ -109,7 +109,7 @@ Wednesday, October 11
    EXAFS analysis on more complex materials.
 
    + Presenter: `Bruce Ravel <https://www.bnl.gov/staff/bravel>`__
-   + EXAFS and non-crystalline materials: :download:`xtal.pdf <_static/October2023/noxtal.pdf>`
+   + EXAFS and non-crystalline materials: :download:`noxtal.pdf <_static/October2023/noxtal.pdf>`
    + A hard EXAFS problem, Hg bound to nucleotides: :download:`hgdna.pdf <_static/October2023/hgdna.pdf>`
 
    | 
@@ -156,4 +156,4 @@ Links and Resources
 -------------------
 
 + `Tutorials at XrayAbsorption.org <https://xrayabsorption.org/tutorials/>`__
-+ `Bruce's XAS Education page: <http://bruceravel.github.io/XAS-Education/>`__
++ `Bruce's XAS Education page <http://bruceravel.github.io/XAS-Education/>`__
