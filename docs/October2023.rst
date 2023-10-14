@@ -1,6 +1,6 @@
 
-October 2023
-============
+October 10-12, 2023
+===================
 
 X-ray absorption spectroscopy is a core technique of the DOE
 synchrotron user facilities and attracts diverse scientific
@@ -21,8 +21,7 @@ analyze the data they collect.
 
 This course was organized and presented by Lu Ma, Bruce Ravel, and Eli
 Stavitski with additional lectures by Denis Leshchev and Akhil Tayal.
-We are indebted to Mercy Baez and Mariah Barget for logistical support
-and all the other things!
+We are grateful to Mercy Baez and Mariah Barget for logistical support.
 
 .. _fig-groupphoto:
 .. figure::  _images/October2023_group_photo.jpg
