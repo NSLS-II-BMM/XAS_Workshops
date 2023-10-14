@@ -80,7 +80,7 @@ Tuesday, October 10
 :Sample preparation and sample environments:
 
    A discussion of how to plan for your XAS experiment, how to prepare
-   your samples for measurement, and how plan for *in situ* and
+   your samples for measurement, and how to plan for *in situ* and
    *operando* experiments
 
    + Presenter: `Eli Stavitski <https://www.bnl.gov/staff/istavitski>`__
@@ -92,6 +92,8 @@ Wednesday, October 11
 ---------------------
 
 :XANES analysis:
+
+   An introduction to methods and challenges of XANES analysis.
 
    + Presenter: `Denis Leshchev <https://www.bnl.gov/staff/dleshchev>`__
    + Slide deck: 
@@ -107,12 +109,16 @@ Wednesday, October 11
    EXAFS analysis on more complex materials.
 
    + Presenter: `Bruce Ravel <https://www.bnl.gov/staff/bravel>`__
-   + EXAFS and non-crystalline materials: :download:`noc=xtal.pdf <_static/October2023/noxtal.pdf>`
+   + EXAFS and non-crystalline materials: :download:`xtal.pdf <_static/October2023/noxtal.pdf>`
    + A hard EXAFS problem, Hg bound to nucleotides: :download:`hgdna.pdf <_static/October2023/hgdna.pdf>`
 
    | 
 
 :High energy resolution techniques:
+
+   High energy resolution fluorescence detection (HERFD), X-ray
+   emission spectroscopy (XES), and resonant inelastic X-ray
+   spectroscopy (RIXS) using crystal spectrometers.
 
    + Presenter: `Denis Leshchev <https://www.bnl.gov/staff/dleshchev>`__
    + Slide deck: 
@@ -120,6 +126,9 @@ Wednesday, October 11
    | 
 
 :Combined techniques:
+
+   How to plan for and implement additional measurement techniques
+   such as XRD and DRIFTS during your XAS experiment.
 
    + Presenter: `Lu Ma <https://www.bnl.gov/staff/luma>`__
    + Slide deck: 
