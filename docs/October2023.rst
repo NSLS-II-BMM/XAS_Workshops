@@ -42,44 +42,49 @@ Here is a zip file with all of the downloads linked below:
 Tuesday, October 10
 -------------------
 
-**Introduction to XAS**
+:Introduction to XAS:
 
    Overview of the basic physics and chemistry of XAS
 
-   + Presenter: Bruce Ravel
+   + Presenter: `Bruce Ravel <https://www.bnl.gov/staff/bravel>`__
    + Slide deck: :download:`XAS2023_Intro.pdf <_static/October2023/XAS2023_Intro.pdf>`
 
+   | 
 
-**Data reduction and background removal**
+
+:Data reduction and background removal:
 
    An introduction to processing XAS data, including background
    subtraction and Fourier transforms
 
-   + Presenter: Akhil Tayal
+   + Presenter: `Akhil Tayal <https://www.bnl.gov/staff/atayal>`__
    + Slide deck: :download:`XAFS_Normalization.pdf <_static/October2023/XAFS_Normalization.pdf>`
 
+   | 
 
-**EXAFS analysis I**
+
+:EXAFS analysis I:
 
    An introductory EXAFS data analysis problem using FeS\
    :sub:`2`. This is the introduction to fitting EXAFS data analysis
    with Feff and Artemis
 
-   + Presenter: Bruce Ravel
+   + Presenter: `Bruce Ravel <https://www.bnl.gov/staff/bravel>`__
    + |mu|\ (E) data: :download:`FeS2_RT.xmu <_static/October2023/FeS2/FeS2_RT.xmu>`
    + crystal data: :download:`FeS2.inp <_static/October2023/FeS2/FeS2.inp>`
      (this is a file format that Artemis can inport)
    + final fitting model: :download:`FeS2_final.fpj <_static/October2023/FeS2/FeS2_final.fpj>`
    + discussion of FeS\ :sub:`2` final fit: :download:`fes2.pdf <_static/October2023/fes2.pdf>`
 
+   | 
 
-**Sample preparation and sample environments**
+:Sample preparation and sample environments:
 
    A discussion of how to plan for your XAS experiment, how to prepare
    your samples for measurement, and how plan for *in situ* and
    *operando* experiments
 
-   + Presenter: Eli Stavitski
+   + Presenter: `Eli Stavitski <https://www.bnl.gov/staff/istavitski>`__
    + Slide deck: :download:`Sample prep and sample environments.pdf <_static/October2023/Sample prep and sample environments.pdf>`
 
 
@@ -87,12 +92,14 @@ Tuesday, October 10
 Wednesday, October 11
 ---------------------
 
-**XANES analysis**
+:XANES analysis:
 
-   + Presenter: Denis Leshchev
+   + Presenter: `Denis Leshchev <https://www.bnl.gov/staff/dleshchev>`__
    + Slide deck: 
 
-**EXAFS analysis II**
+   | 
+
+:EXAFS analysis II:
 
    The problem with the FeS\ :sub:`2` example from the previous day is
    that it is analysis of a crystalline material, thus it is obvious
@@ -100,18 +107,22 @@ Wednesday, October 11
    In these lectures, Bruce presented some thoughts about how to start
    EXAFS analysis on more complex materials.
 
-   + Presenter: Bruce Ravel
+   + Presenter: `Bruce Ravel <https://www.bnl.gov/staff/bravel>`__
    + EXAFS and non-crystalline materials: :download:`noc=xtal.pdf <_static/October2023/noxtal.pdf>`
    + A hard EXAFS problem, Hg bound to nucleotides: :download:`hgdna.pdf <_static/October2023/hgdna.pdf>`
 
-**High energy resolution techniques**
+   | 
 
-   + Presenter: Denis Leshchev
+:High energy resolution techniques:
+
+   + Presenter: `Denis Leshchev <https://www.bnl.gov/staff/dleshchev>`__
    + Slide deck: 
 
-**Combined techniques**
+   | 
 
-   + Presenter: Lu Ma
+:Combined techniques:
+
+   + Presenter: `Lu Ma <https://www.bnl.gov/staff/luma>`__
    + Slide deck: 
 
 
