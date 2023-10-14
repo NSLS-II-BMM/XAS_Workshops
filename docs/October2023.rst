@@ -129,7 +129,13 @@ Wednesday, October 11
 Thursday, October 12
 --------------------
 
-Experimental session: XAS data collection at QAS, BMM, and ISS
+:Experimental session: 
+
+   Hands-on XAS data collection at the NSLS-II hard X-ray spectroscopy beamlines
+
+   + `QAS <https://www.bnl.gov/nsls2/beamlines/beamline.php?r=7-BM>`__
+   + `BMM <https://www.bnl.gov/nsls2/beamlines/beamline.php?r=6-BM>`__
+   + `ISS <https://www.bnl.gov/nsls2/beamlines/beamline.php?r=8-ID>`__
 
 Data from BMM
 ~~~~~~~~~~~~~
