@@ -2,20 +2,32 @@
 October 10-12, 2023
 ===================
 
+|nbsp|
+
+------
+
+Download all slide decks and other course materials:
+:download:`October2023.zip <_static/October2023.zip>`
+
+------
+
+.. todo:: Gather remaining materials, including lectures from Denis
+	  and Lu.  Data from QAS and ISS?
+
+
 X-ray absorption spectroscopy is a core technique of the DOE
 synchrotron user facilities and attracts diverse scientific
-communities. This 3-day course offered by NSLS-II experts will
-introduce XAS data analysis for new and prospective users and provide
-an opportunity to perform real experiments at NSLS-II XAS
-beamlines. The first day will be devoted to fundamentals of XAS
-analysis, data reduction and processing, and basics of XAS experiments
-and instrumentation.
+communities. This 3-day course offered by NSLS-II experts introduced
+XAS data analysis to new and prospective users and provide an
+opportunity to perform real experiments at NSLS-II XAS beamlines. The
+first two days were devoted to the fundamentals of XAS analysis, data
+reduction and processing, and the basics of XAS experiments and
+instrumentation.
 
-Participants will be trained hands-on on XAS data analysis of
-increasing complexity. Modern XAS methods such as high-resolution
-spectroscopy will also be introduced. On the third day, the
-participants will participate in the experiments at XAS beamlines and
-analyze the data they collect.
+Participants were trained on XAS data analysis of increasing
+complexity.  Modern XAS methods such as high-resolution spectroscopy
+were be introduced. On the third day, the participants participated in
+the experiments at XAS beamlines and analyzed the data they collected.
 
 `Course page at NSLS-II <https://www.bnl.gov/xascourse/>`__
 
@@ -32,9 +44,6 @@ We are grateful to Mercy Baez and Mariah Barget for logistical support.
    The participants and instructors of the October 2023 XAS Workshop
 
 
-Here is a zip file with all of the downloads linked below:
-
-.. todo:: Once all materials are collected, make a zip file and put a link here
 
 
 
@@ -102,11 +111,11 @@ Wednesday, October 11
 
 :EXAFS analysis II:
 
-   The problem with the FeS\ :sub:`2` example from the previous day is
-   that it is analysis of a crystalline material, thus it is obvious
-   how to approach the analysis problem starting with crystal data.
-   In these lectures, Bruce presented some thoughts about how to start
-   EXAFS analysis on more complex materials.
+   The FeS\ :sub:`2` example from the previous day might seem a bit
+   too simple.  It involves analysis of a crystalline material, thus
+   the path through the analysis obviously starts with crystal data.
+   In these two lectures, some ideas are presented about how to
+   perform EXAFS analysis on more complex materials.
 
    + Presenter: `Bruce Ravel <https://www.bnl.gov/staff/bravel>`__
    + EXAFS and non-crystalline materials: :download:`noxtal.pdf <_static/October2023/noxtal.pdf>`
@@ -148,12 +157,32 @@ Thursday, October 12
 Data from BMM
 ~~~~~~~~~~~~~
 
-.. todo:: gather up standards + FeS2 + edited dossiers in a zip file
+During the hands-on experiment at BMM, we measured the following
+materials, all at the iron K edge:
 
+#. `Wustite <https://en.wikipedia.org/wiki/W%C3%BCstite>`__ : FeO,
+   measured in transmission 
+#. `Hematite <https://en.wikipedia.org/wiki/Hematite>`__: Fe\
+   :sub:`2`\ O\ :sub:`3`, measured in transmission 
+#. `Pyrite <https://en.wikipedia.org/wiki/Pyrite>`__: FeS\ :sub:`2`,
+   measured in transmission 
+#. `Vesuvianite <https://en.wikipedia.org/wiki/Vesuvianite>`__:
+   nominally Ca\ :sub:`10`\ (Mg, Fe)\ :sub:`2`\ Al\ :sub:`4`\ (SiO\
+   :sub:`4`\ )\ :sub:`5`\ (Si\ :sub:`2`\ O\ :sub:`7`\ )\ :sub:`2`\
+   (OH,F)\ :sub:`4`, measured in transmission and fluorescence
+#. FeS\ :sub:`2` extracted from a battery and measured in fluorescence
+   (sample contributed by a workshop participant)
+
+Zip file containing these data: :download:`BMM data.zip
+<_static/October2023/BMM data.zip>`
 
 
 Links and Resources
 -------------------
+
+Here is a zip file with all of the downloads linked above:
+:download:`October2023.zip <_static/October2023.zip>`
+
 
 + `Tutorials at XrayAbsorption.org <https://xrayabsorption.org/tutorials/>`__
 + `Bruce's XAS Education page <http://bruceravel.github.io/XAS-Education/>`__

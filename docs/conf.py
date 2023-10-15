@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'XAS Workshops at NSLS-II'
+project = 'NSLS-II XAS Workshops'
 copyright = '2023, Denis Leshchev, Lu Ma, Bruce Ravel, Eli Stavitski, Akhil Tayal'
 author = 'the NSLS-II Spectroscopy Group'
 
 # The full version, including alpha/beta/rc tags
-release = '0.1'
+release = 'v2023.10'
 
 rst_prolog = open('prolog','r').read()
 
