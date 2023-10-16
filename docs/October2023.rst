@@ -11,10 +11,6 @@ Download all slide decks and other course materials:
 
 ------
 
-.. todo:: Gather remaining materials, including lectures from Lu.
-          Data from QAS and ISS?
-
-
 X-ray absorption spectroscopy is a core technique of the DOE
 synchrotron user facilities and attracts diverse scientific
 communities. This 3-day course offered by NSLS-II experts introduced
