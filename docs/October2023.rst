@@ -140,7 +140,7 @@ Wednesday, October 11
    such as XRD and DRIFTS during your XAS experiment.
 
    + Presenter: `Lu Ma <https://www.bnl.gov/staff/luma>`__
-   + Slide deck: 
+   + Slide deck: :download:`LM-XAS2023-1.pdf <_static/October2023/LM-XAS2023-1.pdf>`
 
 
 Thursday, October 12
