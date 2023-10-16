@@ -11,8 +11,8 @@ Download all slide decks and other course materials:
 
 ------
 
-.. todo:: Gather remaining materials, including lectures from Denis
-	  and Lu.  Data from QAS and ISS?
+.. todo:: Gather remaining materials, including lectures from Lu.
+          Data from QAS and ISS?
 
 
 X-ray absorption spectroscopy is a core technique of the DOE
@@ -105,7 +105,7 @@ Wednesday, October 11
    An introduction to methods and challenges of XANES analysis.
 
    + Presenter: `Denis Leshchev <https://www.bnl.gov/staff/dleshchev>`__
-   + Slide deck: 
+   + Slide deck: :download:`XANES_analysis_workshop.pdf <_static/October2023/XANES_analysis_workshop.pdf>`
 
    | 
 
@@ -130,7 +130,7 @@ Wednesday, October 11
    spectroscopy (RIXS) using crystal spectrometers.
 
    + Presenter: `Denis Leshchev <https://www.bnl.gov/staff/dleshchev>`__
-   + Slide deck: 
+   + Slide deck: :download:`High_resolution_techniques_workshop.pdf <_static/October2023/High_resolution_techniques_workshop.pdf>`
 
    | 
 
