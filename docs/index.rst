@@ -34,6 +34,7 @@ wonderful folks in the NSLS-II `User Services Office
    :caption: Courses:
 
    October2023.rst
+   March2024.rst
 
 
 Acknowledgments
