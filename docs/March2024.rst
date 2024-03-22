@@ -4,41 +4,40 @@ March 19-21, 2024
 
 |nbsp|
 
-------
 
-Download all slide decks and other course materials:
-:download:`March2024.zip <_static/March2024.zip>`
+.. admonition:: TL;DR
 
-------
+   Download all slide decks and other course materials:
+   :download:`March2024.zip <_static/March2024.zip>`
+
 
 X-ray absorption spectroscopy is a core technique of the DOE
 synchrotron user facilities and attracts diverse scientific
 communities. This 3-day course offered by NSLS-II experts introduced
-XAS data analysis to new and prospective users and provide an
-opportunity to perform real experiments at NSLS-II XAS beamlines. The
-first two days were devoted to the fundamentals of XAS analysis, data
-reduction and processing, and the basics of XAS experiments and
-instrumentation.
+XAS data analysis to new and prospective users and provided an
+opportunity to participate in measurements at NSLS-II XAS
+beamlines. The first two days were devoted to the fundamentals of XAS
+analysis, data reduction and processing, and the basics of XAS
+experiments and instrumentation.
 
 Participants were trained on XAS data analysis of increasing
 complexity.  Modern XAS methods such as high-resolution spectroscopy
 were be introduced. On the third day, the participants participated in
-the experiments at XAS beamlines and analyzed the data they collected.
+experiments at XAS beamlines.
 
 `Course page at NSLS-II <https://www.bnl.gov/xascourse/>`__
 
 This course was organized and presented by Lu Ma, Bruce Ravel, and Eli
 Stavitski with additional lectures by Denis Leshchev and Akhil Tayal
-and help from Dali Yang.  We are grateful to Kerri Banaszek for
-logistical support.
+and help from Dali Yang.  Kerri Banaszek provided logistical support.
 
 .. _fig-groupphoto2024:
 .. figure:: _images/March2024_group_photo.jpg
    :target: _images/March2024_group_photo.jpg
-   :width: 50%
+   :width: 75%
    :align: center
 
-   The participants and instructors of the October 2023 XAS Workshop
+   The participants and instructors of the March 2024 XAS Workshop
 
 
 
@@ -46,6 +45,16 @@ logistical support.
 
 Tuesday, March 19
 -------------------
+
+:Welcome:
+
+   A greeting from the NSLS-II interim director and an overview of the
+   scientific mission of the light source
+
+   + Presenter: `Erik Johnson <https://www.bnl.gov/staff/johnson>`__
+   + Slide deck: :download:`BNL NSLS-II XAS 19 MAR 2024.pdf <_static/March2024/BNL NSLS-II XAS 19 MAR 2024.pdf>`
+
+   | 
 
 :Introduction to XAS:
 
@@ -153,6 +162,12 @@ Thursday, March 21
    + `BMM <https://www.bnl.gov/nsls2/beamlines/beamline.php?r=6-BM>`__
    + `ISS <https://www.bnl.gov/nsls2/beamlines/beamline.php?r=8-ID>`__
 
+Data from QAS
+~~~~~~~~~~~~~
+
+Data from QAS: 
+
+
 Data from BMM
 ~~~~~~~~~~~~~
 
@@ -167,6 +182,11 @@ in fluorescence at the Zn and Fe edges.
 
 Zip file containing these data and the full electronic log book:
 :download:`BMM data.zip <_static/March2024/BMM.zip>`
+
+Understanding experimental errors at ISS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Presentation by Eli: 
 
 
 Links and Resources
