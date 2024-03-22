@@ -23,7 +23,7 @@ experiments and instrumentation.
 Participants were trained on XAS data analysis of increasing
 complexity.  Modern XAS methods such as high-resolution spectroscopy
 were be introduced. On the third day, the participants participated in
-experiments at XAS beamlines.
+experiments at the three XAS beamlines.
 
 `Course page at NSLS-II <https://www.bnl.gov/xascourse/>`__
 
@@ -165,7 +165,9 @@ Thursday, March 21
 Data from QAS
 ~~~~~~~~~~~~~
 
-Data from QAS: 
+.. admonition:: Coming soon
+
+   Data from QAS
 
 
 Data from BMM
@@ -183,10 +185,12 @@ in fluorescence at the Zn and Fe edges.
 Zip file containing these data and the full electronic log book:
 :download:`BMM data.zip <_static/March2024/BMM.zip>`
 
-Understanding experimental errors at ISS
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ISS exercise: Understanding experimental artifacts
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Presentation by Eli: 
+.. admonition:: Coming soon
+ 
+   Presentation by Eli
 
 
 Links and Resources
