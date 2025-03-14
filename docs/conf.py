@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'NSLS-II XAS Workshops'
-copyright = '2023-2024, Denis Leshchev, Lu Ma, Bruce Ravel, Eli Stavitski, Akhil Tayal'
+copyright = '2023-2024, Denis Leshchev, Lu Ma, Bruce Ravel, Eli Stavitski, Akhil Tayal; 2025 Lu Ma, Jorge Moncada Vivas, Bruce Ravel, Eli Stavitski, Akhil Tayal'
 author = 'the NSLS-II Hard X-Ray Spectroscopy Group'
 
 # The full version, including alpha/beta/rc tags
