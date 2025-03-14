@@ -169,9 +169,8 @@ Thursday, March 13
 Data from QAS
 ~~~~~~~~~~~~~
 
-.. admonition:: Coming soon
-
-   Data from QAS
+Zip file containing data from QAS:
+:download:`QAS-data.zip <_static/March2025/QAS-data.zip>`
 
 
 Data from BMM
