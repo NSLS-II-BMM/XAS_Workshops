@@ -22,7 +22,7 @@ copyright = '2023-2024, Denis Leshchev, Lu Ma, Bruce Ravel, Eli Stavitski, Akhil
 author = 'the NSLS-II Hard X-Ray Spectroscopy Group'
 
 # The full version, including alpha/beta/rc tags
-release = 'v2024.03'
+release = 'v2025.03'
 
 rst_prolog = open('prolog','r').read()
 
